@@ -1,0 +1,60 @@
+.container{
+  width:20%; 
+  height:10%;
+  padding-bottom:10%;
+  display: flex;
+  border:#004d40 solid 3px;
+}
+
+
+.column1{
+  /*width:20%; 
+  /*height:50%;*/
+ /* padding:-1%;
+ /* display: inline-block;*/
+  background-color: #009688;
+}
+.column2{
+  /*width:5%; */
+  height:50%;
+  padding-left:5%;
+ /* display: inline-block;*/
+  padding-bottom: 40%;
+ text-align: bottom;
+ /*background-color: #ff5722;*/
+
+}
+.dateand{
+  display: flex;
+}
+
+#info1{
+  display: block;
+  background-color:#004d40 ;
+}
+#pro1{
+  /*width: 2.5%;*/
+  margin-bottom: 30px;
+
+}
+
+#skills2{
+  background-color: #004d40;
+}
+h5{
+ text-decoration: underline overline;
+
+}
+progress{
+  display: block;
+line-height: 32px;   /* within paragraph */
+  margin-bottom: 30px;
+
+}
+.date{
+  display: inline-block;
+}
+.blablabla1{
+  display: inline-block;
+ 
+  }
